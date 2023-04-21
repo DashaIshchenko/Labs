@@ -1,0 +1,7 @@
+world
+meow
+hello
+cat
+bye
+gav
+dog
