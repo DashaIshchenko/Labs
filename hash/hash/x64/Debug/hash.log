@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\dedma\source\repos\hash\hash\Source.cpp(192,56): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\dedma\source\repos\hash\hash\Source.cpp(193,17): warning C4305: *=: усечение из "double" в "float"
+  hash.vcxproj -> C:\Users\dedma\source\repos\hash\x64\Debug\hash.exe
